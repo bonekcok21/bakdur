@@ -1,0 +1,41 @@
+<!--
+#####################
+## Trenggalek Jaya ##
+#####################
+-->
+<html>
+<head>
+<title>Hacked</title>
+<link href="http://fonts.googleapis.com/css?family=Fauna+One" rel="stylesheet" type="text/css">
+<meta content="Trenggalek 6etar" name="author"/>
+<body bgcolor="#000" marginwidth="0" marginheight="0" style="background: black  no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size:cover;" onload="(function(a){window.CloudFlare &amp;&amp; window.CloudFlare.push(function(b){b([&quot;cloudflare/rocket&quot;],function(c){c.push(function(){(function(){type_text()}).call(a)})})})})(this);" bottommargin="0" rightmargin="0" leftmargin="0" topmargin="0">
+<style>body{font-family:"courier new";font-size:80%;color:#28FE14;}.xBody{width:660px;height:450px;position:absolute;z-index:9;}.ssh{display:none;z-index:9;}.sshBox{height:300px;border:4px solid white;-moz-border-radius:4px;-webkit-border-radius:4px;-o-border-radius:4x;-khtml-border-radius:4px;border-radius:4px;z-index:9;}.sshHead{margin-bottom:5px;color:black;font-weight:bold;background-color:white;height:20px;z-index:9;}.greenBox{padding-left:3px;position:absolute;height:22px;border:1px solid #28FE14;z-index:9;}.picz{position:absolute;width:500px;height:80%;display:none;right:2px;top:2px;}#mg img:hover{-webkit-animation:tremer 0.5s linear infinite;-moz-animation:tremer 0.5s linear infinite;-o-animation:tremer 0.5s linear infinite;animation:tremer 0.5s linear infinite;}.neon{<!--coleur lootz--> color:blue;text-shadow:0 0 5px red,0 0 10px red,0 0 30px orange,0 0 45px yellow,0 0 60px red;}.like{border:4px double yellow;box-shadow:0px 2px 20px white;border-radius:10px;padding:9px;height:310px;}#mg img{border:4px double yellow;border-radius:10px;opacity:0.75;-moz-opacity:0.75;filter:alpha(opacity=75);}
+.style18 {
+
+  	color: #676767;
+  }
+.style8 {
+
+  	font-family: Consolas;
+
+  }
+
+.memek {
+    font-size:12;
+}
+</style>
+</head>
+<body bgcolor="black">
+<div style="display:none"><audio controls autoplay >
+<source src="https://raw.githubusercontent.com/bonekcok21/flarum.github.io/master/toolur_7HfOuJ.mp3" type="audio/mpeg">
+</audio></div>
+<center>
+<center>
+<center><br><br>
+<img src="https://data.whicdn.com/images/208946801/original.gif" height="350" width="500"><br><br><br>
+<p class='style8'>Hacked By Trenggalek 6etar</p>
+<p class='style8'><span class='style18'>Jangene_Cakep</span> - <span class='style18'>Panataran</span> - <span class='style18'>0x1999</span> - <span class='style18'>0xIDiot</span> - <span class='style18'>Unlucky</span> - <span class='style18'>Mr.Optimuz_r00t</span> - <span class='style18'>ANARCHY99</span> - <span class='style18'>All My Friends</span>
+<br><br><br><span class='style18'>Skype</span> : <span class='style18'>aqpunk21_1</span>
+</td>
+</center>
+<br> <br></span></div>
